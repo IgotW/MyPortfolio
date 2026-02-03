@@ -848,10 +848,6 @@ body.dark-mode::before {
     animation: floatGradientDark 20s ease-in-out infinite;
 }
 
-.social-btn.dark-mode {
-    color: white;
-}
-
 @keyframes floatGradientDark {
     0%, 100% {
         transform: translate(0, 0) scale(1);
